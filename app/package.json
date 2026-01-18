@@ -1,0 +1,15 @@
+{
+  "name": "node-k8s-api",
+  "version": "1.0.0",
+  "description": "Simple Node.js API running on Kubernetes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "author": "Isuru Sandalanka",
+  "license": "ISC"
+}
